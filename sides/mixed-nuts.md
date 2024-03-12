@@ -2,9 +2,10 @@
 
 ## Ingredients
 
-- Wallnuts
-- Pestatue
+- Walnut
+- Pistachio
 - Peanut
+- Hazelnut
 
 
 ## Instructions

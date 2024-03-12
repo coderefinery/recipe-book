@@ -3,5 +3,5 @@
 ## ingredents
 
 - water
-- a bit more water
+- a bit more good water
 - a bit less water

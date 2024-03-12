@@ -22,3 +22,4 @@
 - After eggs are done, peel
 - After peeling, submerge eggs in sauce
 - Soak for at least overnight before consuming
+- Eat with hot steamed jasmine rice

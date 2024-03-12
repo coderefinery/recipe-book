@@ -1,12 +1,17 @@
-# Recipe name
+# Feta salad
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- Lettuce
+- Feta
+- Tomatoes
+- Cucumber
+- Basil
+- Red onion
 
 
 ## Instructions
 
-- Step 1
-- Step 2
+- Wash and chop vegetables
+- Mix all in a bowl
+- Enjoy

@@ -2,11 +2,13 @@
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- walnuts
+- Tomato
+- Onion
 
 
 ## Instructions
 
-- Step 1
-- Step 2
+- fry onion
+- add walnuts
+- add tomato
